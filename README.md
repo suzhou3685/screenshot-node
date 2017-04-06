@@ -12,7 +12,7 @@
 # 安装依赖
 
 ```
-npm install
+npm install   
 ```
 
 # 运行
